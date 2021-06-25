@@ -1,0 +1,1 @@
+# GameWoof-CorePodSpecs
